@@ -12,6 +12,7 @@ Some meta-rules:
 Player List
 -----------
 1. Courtney Ferguson (0 points)
+2. Gary Rogers (0 points)
 
 Immutable Rules
 ---------------
