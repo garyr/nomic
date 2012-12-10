@@ -11,7 +11,7 @@ Some meta-rules:
 
 Player List
 -----------
-
+1. Courtney Ferguson (0 points)
 
 Immutable Rules
 ---------------
